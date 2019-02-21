@@ -1,0 +1,11 @@
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\bin\Debug\netcoreapp2.1\PrimeNumberProgram.deps.json
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\bin\Debug\netcoreapp2.1\PrimeNumberProgram.runtimeconfig.json
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\bin\Debug\netcoreapp2.1\PrimeNumberProgram.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\bin\Debug\netcoreapp2.1\PrimeNumberProgram.dll
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\bin\Debug\netcoreapp2.1\PrimeNumberProgram.pdb
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\obj\Debug\netcoreapp2.1\PrimeNumberProgram.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\obj\Debug\netcoreapp2.1\PrimeNumberProgram.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\obj\Debug\netcoreapp2.1\PrimeNumberProgram.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\obj\Debug\netcoreapp2.1\PrimeNumberProgram.AssemblyInfo.cs
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\obj\Debug\netcoreapp2.1\PrimeNumberProgram.dll
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeNumberProgram\obj\Debug\netcoreapp2.1\PrimeNumberProgram.pdb

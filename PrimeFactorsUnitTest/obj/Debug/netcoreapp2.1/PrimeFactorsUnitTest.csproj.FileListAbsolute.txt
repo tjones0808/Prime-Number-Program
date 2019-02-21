@@ -1,0 +1,17 @@
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.1\PrimeFactorsUnitTest.deps.json
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.1\PrimeFactorsUnitTest.runtimeconfig.json
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.1\PrimeFactorsUnitTest.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.1\PrimeFactorsUnitTest.dll
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.1\PrimeFactorsUnitTest.pdb
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.1\PrimeNumberProgram.dll
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.1\PrimeNumberProgram.pdb
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.1\PrimeFactorsUnitTest.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.1\PrimeFactorsUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.1\PrimeFactorsUnitTest.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.1\PrimeFactorsUnitTest.AssemblyInfo.cs
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.1\PrimeFactorsUnitTest.csproj.CopyComplete
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.1\PrimeFactorsUnitTest.dll
+C:\Users\tyler\source\repos\PrimeNumberProgram\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.1\PrimeFactorsUnitTest.pdb
